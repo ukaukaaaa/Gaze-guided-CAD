@@ -1,6 +1,6 @@
-# NBME Lung AI Anchoring — Reading Platform Code
+# Gaze-guided CAD — Reading Platform Code
 
-Experimental reading platform used in the study of AI-induced attentional anchoring in 3D CT lung nodule reading. This repository contains the PyQt-based reading UI and gaze calibration utilities. **Statistical analysis code is not included.**
+Experimental reading platform used in the study of AI-induced attentional anchoring in 3D CT lung nodule reading. This repository contains the PyQt-based reading UI and gaze calibration utilities.
 
 ## Repository contents
 
